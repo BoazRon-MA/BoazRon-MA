@@ -6,9 +6,9 @@ Principal Integration Engineer with experience delivering cloud, hybrid, and on-
 
 My background spans software development, systems integration, fraud prevention, and enterprise architecture, with hands-on experience in C, Ruby, .NET, Java, web services, APIs, and distributed systems. I am particularly passionate about applying AI and advanced analytics to combat financial fraud and improve security outcomes within the banking check sector.
 
-I believe technology evolves constantly, and so should the people who build it. Continuous learning has been a cornerstone of my career, and I am currently pursuing a Master of Science in Computer Science at Boston University.
+I believe technology evolves constantly, and so should the people who build it. Continuous learning has been a cornerstone of my career, and I am currently pursuing a Master of Science in Computer Science at Boston University, adding to my Bachelor of Science in Computer Science and my Bachelor of Liberal Arts.
 
-Areas of Interest: Artificial Intelligence & Machine Learning, Fraud Detection & Financial Security, Cloud Architecture & Distributed Systems, Enterprise Integrations & APIs, Software Engineering, Data Engineering.
+Areas of Interest: Artificial Intelligence & Machine Learning, Fraud Detection & Financial Security, Cloud Architecture & Distributed Systems, Enterprise Integrations & APIs, and Software Engineering.
 
 The projects featured here primarily represent academic coursework and educational requirements. For discussions regarding professional experience, enterprise-scale integrations, technology leadership, solution architecture, or applied engineering practices, feel free to connect with me directly.
 
